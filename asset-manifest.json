@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/tsapp/static/css/main.f16f7726.css",
+    "main.js": "/github.io/tsapp/static/js/main.b948b608.js",
+    "index.html": "/github.io/tsapp/index.html",
+    "main.f16f7726.css.map": "/github.io/tsapp/static/css/main.f16f7726.css.map",
+    "main.b948b608.js.map": "/github.io/tsapp/static/js/main.b948b608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f16f7726.css",
+    "static/js/main.b948b608.js"
+  ]
+}
